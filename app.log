@@ -1,0 +1,42 @@
+2019-12-01 21:33:40,055 INFO com.e.E_publisher_Application [restartedMain] Starting E_publisher_Application on gihan-Aspire-E5-575G with PID 29518 (/home/gihan/Videos/Back-End/e-publisher/target/classes started by gihan in /home/gihan/Videos/Back-End/e-publisher)
+2019-12-01 21:33:40,055 INFO com.e.E_publisher_Application [restartedMain] No active profile set, falling back to default profiles: default
+2019-12-01 21:33:40,351 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+2019-12-01 21:33:40,378 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-12-01 21:33:40,378 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-01 21:33:40,389 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-12-01 21:33:40,454 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-01 21:33:40,460 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-26 - Starting...
+2019-12-01 21:33:40,476 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-26 - Start completed.
+2019-12-01 21:33:40,477 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2019-12-01 21:33:40,655 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-01 21:33:41,185 INFO com.e.E_publisher_Application [restartedMain] Started E_publisher_Application in 1.165 seconds (JVM running for 10231.744)
+2019-12-01 21:34:07,733 INFO com.zaxxer.hikari.HikariDataSource [Thread-160] HikariPool-26 - Shutdown initiated...
+2019-12-01 21:34:07,826 INFO com.zaxxer.hikari.HikariDataSource [Thread-160] HikariPool-26 - Shutdown completed.
+2019-12-01 21:34:07,951 INFO com.e.E_publisher_Application [restartedMain] Starting E_publisher_Application on gihan-Aspire-E5-575G with PID 29518 (/home/gihan/Videos/Back-End/e-publisher/target/classes started by gihan in /home/gihan/Videos/Back-End/e-publisher)
+2019-12-01 21:34:07,951 INFO com.e.E_publisher_Application [restartedMain] No active profile set, falling back to default profiles: default
+2019-12-01 21:34:08,224 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+2019-12-01 21:34:08,255 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-12-01 21:34:08,255 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-01 21:34:08,271 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-12-01 21:34:08,357 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-01 21:34:08,361 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-27 - Starting...
+2019-12-01 21:34:08,381 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-27 - Start completed.
+2019-12-01 21:34:08,383 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2019-12-01 21:34:08,477 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-01 21:34:08,876 INFO com.e.E_publisher_Application [restartedMain] Started E_publisher_Application in 0.953 seconds (JVM running for 10259.435)
+2019-12-01 21:35:23,589 INFO com.zaxxer.hikari.HikariDataSource [Thread-166] HikariPool-27 - Shutdown initiated...
+2019-12-01 21:35:23,621 INFO com.zaxxer.hikari.HikariDataSource [Thread-166] HikariPool-27 - Shutdown completed.
+2019-12-01 21:35:23,746 INFO com.e.E_publisher_Application [restartedMain] Starting E_publisher_Application on gihan-Aspire-E5-575G with PID 29518 (/home/gihan/Videos/Back-End/e-publisher/target/classes started by gihan in /home/gihan/Videos/Back-End/e-publisher)
+2019-12-01 21:35:23,747 INFO com.e.E_publisher_Application [restartedMain] No active profile set, falling back to default profiles: default
+2019-12-01 21:35:23,978 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+2019-12-01 21:35:24,007 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-12-01 21:35:24,007 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-01 21:35:24,020 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-12-01 21:35:24,085 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-01 21:35:24,090 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-28 - Starting...
+2019-12-01 21:35:24,115 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-28 - Start completed.
+2019-12-01 21:35:24,115 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2019-12-01 21:35:24,230 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-01 21:35:24,712 INFO com.e.E_publisher_Application [restartedMain] Started E_publisher_Application in 0.988 seconds (JVM running for 10335.271)
+2019-12-01 21:36:42,471 INFO com.zaxxer.hikari.HikariDataSource [Thread-172] HikariPool-28 - Shutdown initiated...
+2019-12-01 21:36:42,548 INFO com.zaxxer.hikari.HikariDataSource [Thread-172] HikariPool-28 - Shutdown completed.
